@@ -1,0 +1,7 @@
+=== SOC ALERT REPORT ===
+Generated at: 2026-04-28 16:02:18.464290
+
+CRITICAL 🔥 | IP: 192.168.1.10 | Score: 8 | Reason: Brute force attack succeeded (multiple failures followed by login)
+HIGH ⚠️ | IP: 192.168.1.20 | Score: 3 | Reason: Repeated failed login attempts (possible brute force)
+CRITICAL 🔥 | IP: 192.168.1.30 | Score: 8 | Reason: Brute force attack succeeded (multiple failures followed by login)
+HIGH ⚠️ | IP: 192.168.1.40 | Score: 3 | Reason: Repeated failed login attempts (possible brute force)
