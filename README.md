@@ -82,6 +82,8 @@ python insert\_log.py
 
 python scoring.py
 
+**Note: Update the SQL Server connection string in `db.py` according to your local setup.**
+
 
 
 **Project Structure**
@@ -120,5 +122,5 @@ Mohamed Lamine Krina
 
 Cybersecurity \& Computer Engineering Student
 
-
+ghp\_kDGpvL1XHGMbSQDDDNIBB5pIDq2tT41e76cl
 
